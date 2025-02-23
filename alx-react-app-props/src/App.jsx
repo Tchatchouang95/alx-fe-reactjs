@@ -1,5 +1,5 @@
 import UserContext from './components/UserContext'
-import ProfilePage from './components/ProfilePage'
+import UserProfile from './components/UserProfile'
 
 function App() {
 
@@ -7,7 +7,7 @@ function App() {
     //2-Providing the context
     <UserContext.Provider value={{name: "Jane Doe", email: "jane.doe@example.com"}}>
       <div>
-          <ProfilePage />
+          <UserProfile />
       </div>
     </UserContext.Provider>
     
