@@ -4,7 +4,12 @@ import './StyleApp.css'
 
 function Navbar() {
   return (
-    <nav style={{backgroundColor: 'black', padding: '20px 0'}}>
+    <nav style={{
+           backgroundColor: 'black',
+           padding: '0', 
+           display: 'flex', 
+           justifyContent:'center'
+          }}>
         <Link to='/'>Home</Link>
         <Link to='/about'>About</Link>
         <Link to='/services'>Services</Link>
