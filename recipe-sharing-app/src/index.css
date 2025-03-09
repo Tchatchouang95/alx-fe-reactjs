@@ -1,0 +1,43 @@
+.recipe-app {
+  width: 500px;
+  margin: auto;
+  border: 1px solid gray;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+.recipe-app h1 {
+  text-align: center;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+ input[type="text"] {
+  width: 70%;
+  margin: 5px;
+  padding: 10px;
+ }
+
+ textarea {
+  width: 70%;
+  height: 50px;
+  margin: 5px;
+  padding: 10px;
+ }
+ 
+ button {
+  margin: 5px;
+  padding: 7px;
+  color: white;
+  background-color: black;
+ }
+input[type="text"], textarea, button {
+  border: 1px solid grey;
+  border-radius: 10px;
+}
+
+.recipe-list h2{
+  text-align: center;
+}
