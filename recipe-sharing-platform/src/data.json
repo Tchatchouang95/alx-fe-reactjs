@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "title": "Spaghetti Carbonara",
+      "summary": "Classic Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
+      "image": "https://media.istockphoto.com/id/177413384/photo/pasta-with-carbonara.jpg?s=612x612&w=0&k=20&c=hhcHoS983ksQwXtVE_RYOA7RgjIxMxZxQiZ_T77l2wE="
+    },
+    {
+      "id": 2,
+      "title": "Chicken Tikka Masala",
+      "summary": "Creamy tomato-based curry with tender marinated chicken pieces.",
+      "image": "https://media.istockphoto.com/id/967274038/photo/homemade-chicken-tikka-masala.jpg?s=612x612&w=0&k=20&c=XAGwToalj5RmqFnlfjQ6z2mE8iS2VctZryxrxuGvNwc="
+    },
+    {
+      "id": 3,
+      "title": "Vegetarian Tacos",
+      "summary": "Crispy tacos filled with seasoned beans, veggies, and avocado.",
+      "image": "https://media.istockphoto.com/id/1241878649/photo/chef-preparing-vegan-tacos.jpg?s=612x612&w=0&k=20&c=4dlb_aHlM2jZKnNAQpJfTwOWIsMTC1RL93tx4xMZ2nw="
+    },
+    {
+      "id": 4,
+      "title": "Beef Stroganoff",
+      "summary": "Rich and creamy beef and mushroom sauce served over egg noodles.",
+      "image": "https://media.istockphoto.com/id/523456979/photo/homemade-hearty-beef-stroganoff.jpg?s=612x612&w=0&k=20&c=FsTHhQSdD6bNfuiP5u5wXWy6_zmOP4UPgXR7RImOXyU="
+    },
+    {
+      "id": 5,
+      "title": "Caprese Salad",
+      "summary": "Fresh tomatoes, mozzarella, and basil drizzled with balsamic glaze.",
+      "image": "https://media.istockphoto.com/id/1414949573/photo/caprese-salad-with-peaches-mozzarella-cheese-cherry-tomatoes-onions-and-basil-close-up-in-a.jpg?s=612x612&w=0&k=20&c=3nrPaHYjPgAlJaT5tTVr2_-MBxBFioVh_sUo-SiNbNY="
+    },
+    {
+      "id": 6,
+      "title": "Shrimp Scampi",
+      "summary": "Garlicky and buttery shrimp served with pasta or crusty bread.",
+      "image": "https://media.istockphoto.com/id/1352567176/photo/homemade-cooked-shrimp-scampi-with-pasta.jpg?s=612x612&w=0&k=20&c=tnsG6m4i8IgZ3wdJ57f8tGivJ-BQwv8OslolWq1KciI="
+    },
+    {
+      "id": 7,
+      "title": "Ratatouille",
+      "summary": "Delicate layers of baked vegetables with herbs and olive oil.",
+      "image": "https://media.istockphoto.com/id/1286156506/photo/ratatouille-vegetable-stew-of-sliced-eggplant-zucchini-onion-and-potato-with-tomato-sauce.jpg?s=612x612&w=0&k=20&c=NTRNLSRCynBzG3BkNeYEHfRICyL1F5abTYIXEC8g9N0="
+    },
+    {
+      "id": 8,
+      "title": "Banana Bread",
+      "summary": "Moist and flavorful bread made with ripe bananas.",
+      "image": "https://media.istockphoto.com/id/1147312072/photo/banana-bread-loaf-on-wooden-table.jpg?s=612x612&w=0&k=20&c=BWw5Ew5UhpFimfd6_VkfWXPBpuI0XFpm2Yp90C12Oi4="
+    },
+    {
+      "id": 9,
+      "title": "Pancakes",
+      "summary": "Fluffy breakfast favorite topped with syrup and fruits.",
+      "image": "https://media.istockphoto.com/id/161170090/photo/pancakes-with-berries-and-maple-syrup.jpg?s=612x612&w=0&k=20&c=8EctScsN7q5UmxeXPNBnYN1eFmJmgmp2bE0OIq_czwM="
+    },
+    {
+      "id": 10,
+      "title": "Chocolate Chip Cookies",
+      "summary": "Classic cookies loaded with gooey chocolate chips.",
+      "image": "https://media.istockphoto.com/id/905563616/photo/preparing-chocolate-chip-cookies.jpg?s=612x612&w=0&k=20&c=AVSRknHKDOAJjbkYCRHnK0vWL5BKBz08-XEPzmPn8DA="
+    },
+    {
+        "id": 11,
+        "title": "Burrito",
+        "summary": "Two breakfast burritos with scrambled egg, sausage and tomato in a tortilla wrap",
+        "image": "https://media.istockphoto.com/id/1303481589/photo/sausage-and-egg-breakfast-burrito.jpg?s=612x612&w=0&k=20&c=I7U70VnoMB35GVZjT3zO9auDEAmh8X_xRJXATvbJ4Fk="
+      },
+      {
+        "id": 12,
+        "title": "Fruit Juice",
+        "summary": "Various colourful fresh raw ingredients and already blended mix in a bottles for individual consumption are on the kitchen table surface",
+        "image": "https://media.istockphoto.com/id/1467679261/photo/various-colourful-fresh-raw-ingredients-and-already-blended-mix-in-a-bottles-for-individual.jpg?s=612x612&w=0&k=20&c=F35BCApSdJci6NXRaaRNTX5Nff6ySp7EUVIszBHN56E="
+      }
+  ]
