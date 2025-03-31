@@ -1,74 +1,285 @@
 [
-    {
+   {
       "id": 1,
       "title": "Spaghetti Carbonara",
       "summary": "Classic Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
-      "image": "https://media.istockphoto.com/id/177413384/photo/pasta-with-carbonara.jpg?s=612x612&w=0&k=20&c=hhcHoS983ksQwXtVE_RYOA7RgjIxMxZxQiZ_T77l2wE="
-    },
+      "image": "https://media.istockphoto.com/id/177413384/photo/pasta-with-carbonara.jpg?s=612x612&w=0&k=20&c=hhcHoS983ksQwXtVE_RYOA7RgjIxMxZxQiZ_T77l2wE=",
+      "details": {
+      "ingredients": [
+        "200g spaghetti",
+        "100g pancetta",
+        "2 large eggs",
+        "50g Parmesan cheese",
+        "Black pepper",
+        "Salt"
+      ],
+      "instructions": [
+        "Boil spaghetti in salted water until al dente.",
+        "Fry pancetta in a pan until crispy.",
+        "Whisk eggs with Parmesan cheese and black pepper.",
+        "Drain pasta and quickly toss it with pancetta and egg-cheese mixture.",
+        "Serve immediately while hot."
+      ]
+    }
+  },
     {
       "id": 2,
       "title": "Chicken Tikka Masala",
       "summary": "Creamy tomato-based curry with tender marinated chicken pieces.",
-      "image": "https://media.istockphoto.com/id/967274038/photo/homemade-chicken-tikka-masala.jpg?s=612x612&w=0&k=20&c=XAGwToalj5RmqFnlfjQ6z2mE8iS2VctZryxrxuGvNwc="
-    },
+      "image": "https://media.istockphoto.com/id/967274038/photo/homemade-chicken-tikka-masala.jpg?s=612x612&w=0&k=20&c=XAGwToalj5RmqFnlfjQ6z2mE8iS2VctZryxrxuGvNwc=",
+      "details": {
+      "ingredients": [
+        "500g chicken breast",
+        "200g plain yogurt",
+        "1 tbsp garam masala",
+        "1 tbsp turmeric",
+        "3 garlic cloves (minced)",
+        "1 onion (diced)",
+        "400g canned tomatoes",
+        "200ml cream"
+      ],
+      "instructions": [
+        "Marinate chicken in yogurt, garlic, turmeric, and garam masala for 1 hour.",
+        "Sauté onions until golden, add canned tomatoes, and simmer for 10 minutes.",
+        "Add marinated chicken and cook until tender.",
+        "Stir in cream and simmer for 5 minutes.",
+        "Serve with rice or naan bread."
+      ]
+    }
+  },
     {
       "id": 3,
       "title": "Vegetarian Tacos",
       "summary": "Crispy tacos filled with seasoned beans, veggies, and avocado.",
-      "image": "https://media.istockphoto.com/id/1241878649/photo/chef-preparing-vegan-tacos.jpg?s=612x612&w=0&k=20&c=4dlb_aHlM2jZKnNAQpJfTwOWIsMTC1RL93tx4xMZ2nw="
-    },
+      "image": "https://media.istockphoto.com/id/1241878649/photo/chef-preparing-vegan-tacos.jpg?s=612x612&w=0&k=20&c=4dlb_aHlM2jZKnNAQpJfTwOWIsMTC1RL93tx4xMZ2nw=",
+      "details": {
+      "ingredients": [
+        "8 taco shells",
+        "1 can black beans",
+        "1 red bell pepper (chopped)",
+        "1 avocado (sliced)",
+        "Lettuce leaves",
+        "Salsa"
+      ],
+      "instructions": [
+        "Heat taco shells in the oven as per package instructions.",
+        "Sauté red bell pepper in a pan and mix with black beans.",
+        "Fill taco shells with bean mixture, lettuce leaves, avocado slices, and salsa.",
+        "Enjoy immediately!"
+      ]
+    }
+  },
     {
       "id": 4,
       "title": "Beef Stroganoff",
       "summary": "Rich and creamy beef and mushroom sauce served over egg noodles.",
-      "image": "https://media.istockphoto.com/id/523456979/photo/homemade-hearty-beef-stroganoff.jpg?s=612x612&w=0&k=20&c=FsTHhQSdD6bNfuiP5u5wXWy6_zmOP4UPgXR7RImOXyU="
-    },
+      "image": "https://media.istockphoto.com/id/523456979/photo/homemade-hearty-beef-stroganoff.jpg?s=612x612&w=0&k=20&c=FsTHhQSdD6bNfuiP5u5wXWy6_zmOP4UPgXR7RImOXyU=",
+      "details": {
+      "ingredients": [
+        "500g beef strips",
+        "200g mushrooms (sliced)",
+        "1 onion (diced)",
+        "2 tbsp flour",
+        "200ml beef stock",
+        "150ml sour cream",
+        "Egg noodles"
+      ],
+      "instructions": [
+        "Cook egg noodles according to package instructions.",
+        "Sauté onion and mushrooms until tender.",
+        "Add beef strips and cook until browned.",
+        "Sprinkle flour, stir, and add beef stock.",
+        "Simmer until thickened and stir in sour cream.",
+        "Serve over egg noodles."
+      ]
+    }
+  },
     {
       "id": 5,
       "title": "Caprese Salad",
       "summary": "Fresh tomatoes, mozzarella, and basil drizzled with balsamic glaze.",
-      "image": "https://media.istockphoto.com/id/1414949573/photo/caprese-salad-with-peaches-mozzarella-cheese-cherry-tomatoes-onions-and-basil-close-up-in-a.jpg?s=612x612&w=0&k=20&c=3nrPaHYjPgAlJaT5tTVr2_-MBxBFioVh_sUo-SiNbNY="
-    },
+      "image": "https://media.istockphoto.com/id/1414949573/photo/caprese-salad-with-peaches-mozzarella-cheese-cherry-tomatoes-onions-and-basil-close-up-in-a.jpg?s=612x612&w=0&k=20&c=3nrPaHYjPgAlJaT5tTVr2_-MBxBFioVh_sUo-SiNbNY=",
+      "details": {
+      "ingredients": [
+        "2 large ripe tomatoes",
+        "200g fresh mozzarella",
+        "Fresh basil leaves",
+        "2 tbsp balsamic glaze",
+        "Salt and pepper"
+      ],
+      "instructions": [
+        "Slice the tomatoes and mozzarella into even rounds.",
+        "Arrange the tomato and mozzarella slices on a platter, alternating each slice.",
+        "Add fresh basil leaves between the slices.",
+        "Drizzle with balsamic glaze and season with salt and pepper.",
+        "Serve chilled."
+      ]
+    }
+  },
     {
       "id": 6,
       "title": "Shrimp Scampi",
       "summary": "Garlicky and buttery shrimp served with pasta or crusty bread.",
-      "image": "https://media.istockphoto.com/id/1352567176/photo/homemade-cooked-shrimp-scampi-with-pasta.jpg?s=612x612&w=0&k=20&c=tnsG6m4i8IgZ3wdJ57f8tGivJ-BQwv8OslolWq1KciI="
-    },
+      "image": "https://media.istockphoto.com/id/1352567176/photo/homemade-cooked-shrimp-scampi-with-pasta.jpg?s=612x612&w=0&k=20&c=tnsG6m4i8IgZ3wdJ57f8tGivJ-BQwv8OslolWq1KciI=",
+      "details": {
+      "ingredients": [
+        "500g shrimp (peeled and deveined)",
+        "3 garlic cloves (minced)",
+        "4 tbsp butter",
+        "Juice of 1 lemon",
+        "200g pasta or crusty bread",
+        "Fresh parsley (chopped)"
+      ],
+      "instructions": [
+        "Cook pasta as per package instructions, if using.",
+        "Melt butter in a pan and sauté garlic until fragrant.",
+        "Add shrimp and cook until pink, about 3 minutes per side.",
+        "Stir in lemon juice and parsley.",
+        "Serve over pasta or with crusty bread."
+      ]
+    }
+  },
     {
       "id": 7,
       "title": "Ratatouille",
       "summary": "Delicate layers of baked vegetables with herbs and olive oil.",
-      "image": "https://media.istockphoto.com/id/1286156506/photo/ratatouille-vegetable-stew-of-sliced-eggplant-zucchini-onion-and-potato-with-tomato-sauce.jpg?s=612x612&w=0&k=20&c=NTRNLSRCynBzG3BkNeYEHfRICyL1F5abTYIXEC8g9N0="
-    },
+      "image": "https://media.istockphoto.com/id/1286156506/photo/ratatouille-vegetable-stew-of-sliced-eggplant-zucchini-onion-and-potato-with-tomato-sauce.jpg?s=612x612&w=0&k=20&c=NTRNLSRCynBzG3BkNeYEHfRICyL1F5abTYIXEC8g9N0=",
+      "details": {
+      "ingredients": [
+        "1 eggplant (sliced)",
+        "1 zucchini (sliced)",
+        "2 tomatoes (sliced)",
+        "1 bell pepper (sliced)",
+        "Olive oil",
+        "Herbs (thyme, oregano)"
+      ],
+      "instructions": [
+        "Preheat the oven to 375°F (190°C).",
+        "Layer the sliced vegetables in a baking dish, alternating each type.",
+        "Drizzle with olive oil and sprinkle with herbs.",
+        "Cover with foil and bake for 40 minutes.",
+        "Uncover and bake for another 10 minutes to caramelize the top."
+      ]
+    }
+  },
     {
       "id": 8,
       "title": "Banana Bread",
       "summary": "Moist and flavorful bread made with ripe bananas.",
-      "image": "https://media.istockphoto.com/id/1147312072/photo/banana-bread-loaf-on-wooden-table.jpg?s=612x612&w=0&k=20&c=BWw5Ew5UhpFimfd6_VkfWXPBpuI0XFpm2Yp90C12Oi4="
-    },
+      "image": "https://media.istockphoto.com/id/1147312072/photo/banana-bread-loaf-on-wooden-table.jpg?s=612x612&w=0&k=20&c=BWw5Ew5UhpFimfd6_VkfWXPBpuI0XFpm2Yp90C12Oi4=",
+      "details": {
+      "ingredients": [
+        "3 ripe bananas",
+        "100g sugar",
+        "2 eggs",
+        "200g flour",
+        "1 tsp baking soda",
+        "Pinch of salt"
+      ],
+      "instructions": [
+        "Preheat the oven to 350°F (175°C).",
+        "Mash bananas in a bowl and mix with sugar and eggs.",
+        "Add flour, baking soda, and salt, and mix until combined.",
+        "Pour the batter into a greased loaf pan.",
+        "Bake for 60 minutes or until a toothpick comes out clean."
+      ]
+    }
+  },
     {
       "id": 9,
       "title": "Pancakes",
       "summary": "Fluffy breakfast favorite topped with syrup and fruits.",
-      "image": "https://media.istockphoto.com/id/161170090/photo/pancakes-with-berries-and-maple-syrup.jpg?s=612x612&w=0&k=20&c=8EctScsN7q5UmxeXPNBnYN1eFmJmgmp2bE0OIq_czwM="
-    },
+      "image": "https://media.istockphoto.com/id/161170090/photo/pancakes-with-berries-and-maple-syrup.jpg?s=612x612&w=0&k=20&c=8EctScsN7q5UmxeXPNBnYN1eFmJmgmp2bE0OIq_czwM=",
+      "details": {
+      "ingredients": [
+        "1 cup all-purpose flour",
+        "2 tbsp sugar",
+        "1 tsp baking powder",
+        "1/2 tsp baking soda",
+        "1 cup milk",
+        "1 egg",
+        "2 tbsp melted butter",
+        "Maple syrup and fruits (for topping)"
+      ],
+      "instructions": [
+        "In a bowl, mix flour, sugar, baking powder, and baking soda.",
+        "In another bowl, whisk together milk, egg, and melted butter.",
+        "Combine wet and dry ingredients, and mix until smooth.",
+        "Heat a greased skillet and pour batter to form pancakes.",
+        "Cook until bubbles appear, flip, and cook until golden.",
+        "Serve with maple syrup and fruits."
+      ]
+    }
+  },
     {
       "id": 10,
       "title": "Chocolate Chip Cookies",
       "summary": "Classic cookies loaded with gooey chocolate chips.",
-      "image": "https://media.istockphoto.com/id/905563616/photo/preparing-chocolate-chip-cookies.jpg?s=612x612&w=0&k=20&c=AVSRknHKDOAJjbkYCRHnK0vWL5BKBz08-XEPzmPn8DA="
-    },
+      "image": "https://media.istockphoto.com/id/905563616/photo/preparing-chocolate-chip-cookies.jpg?s=612x612&w=0&k=20&c=AVSRknHKDOAJjbkYCRHnK0vWL5BKBz08-XEPzmPn8DA=",
+      "details": {
+      "ingredients": [
+        "2 1/4 cups all-purpose flour",
+        "1 tsp baking soda",
+        "1 tsp salt",
+        "1 cup unsalted butter (softened)",
+        "3/4 cup sugar",
+        "3/4 cup brown sugar",
+        "1 tsp vanilla extract",
+        "2 large eggs",
+        "2 cups chocolate chips"
+      ],
+      "instructions": [
+        "Preheat oven to 375°F (190°C).",
+        "Mix flour, baking soda, and salt in a bowl.",
+        "Cream butter, sugars, and vanilla extract in another bowl.",
+        "Beat in eggs one at a time, then gradually add the flour mixture.",
+        "Fold in chocolate chips.",
+        "Drop spoonfuls onto a baking sheet and bake for 10-12 minutes."
+      ]
+    }
+  },
     {
         "id": 11,
         "title": "Burrito",
         "summary": "Two breakfast burritos with scrambled egg, sausage and tomato in a tortilla wrap",
-        "image": "https://media.istockphoto.com/id/1303481589/photo/sausage-and-egg-breakfast-burrito.jpg?s=612x612&w=0&k=20&c=I7U70VnoMB35GVZjT3zO9auDEAmh8X_xRJXATvbJ4Fk="
-      },
+        "image": "https://media.istockphoto.com/id/1303481589/photo/sausage-and-egg-breakfast-burrito.jpg?s=612x612&w=0&k=20&c=I7U70VnoMB35GVZjT3zO9auDEAmh8X_xRJXATvbJ4Fk=",
+        "details": {
+        "ingredients": [
+          "2 large tortillas",
+          "4 eggs",
+          "100g breakfast sausage (crumbled)",
+          "1 tomato (diced)",
+          "1/2 cup shredded cheese",
+          "Salt and pepper"
+        ],
+        "instructions": [
+          "Cook sausage in a pan until browned.",
+          "Whisk eggs, season with salt and pepper, and scramble them in the same pan.",
+          "Warm tortillas in a dry skillet.",
+          "Fill tortillas with scrambled eggs, sausage, tomato, and cheese.",
+          "Roll into burritos and serve warm."
+        ]
+      }
+    },
       {
         "id": 12,
         "title": "Fruit Juice",
         "summary": "Various colourful fresh raw ingredients and already blended mix in a bottles for individual consumption are on the kitchen table surface",
-        "image": "https://media.istockphoto.com/id/1467679261/photo/various-colourful-fresh-raw-ingredients-and-already-blended-mix-in-a-bottles-for-individual.jpg?s=612x612&w=0&k=20&c=F35BCApSdJci6NXRaaRNTX5Nff6ySp7EUVIszBHN56E="
+        "image": "https://media.istockphoto.com/id/1467679261/photo/various-colourful-fresh-raw-ingredients-and-already-blended-mix-in-a-bottles-for-individual.jpg?s=612x612&w=0&k=20&c=F35BCApSdJci6NXRaaRNTX5Nff6ySp7EUVIszBHN56E=",
+        "details": {
+        "ingredients": [
+          "2 oranges",
+          "1 apple",
+          "1 carrot",
+          "1 cup spinach",
+          "1 cup water or ice cubes"
+        ],
+        "instructions": [
+          "Peel and chop the oranges, apple, carrot, and spinach.",
+          "Add all ingredients to a blender.",
+          "Blend until smooth, adding water or ice cubes for desired consistency.",
+          "Pour into bottles or glasses and serve fresh."
+        ]
       }
+    }
   ]
